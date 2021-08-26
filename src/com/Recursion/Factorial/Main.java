@@ -13,14 +13,5 @@ public class Main {
         number = scn.nextInt();
 
         facto facto = new facto(number);
-        sampleClass smpl = new sampleClass();
-
-        System.out.println();
-
-        facto.Message();
-
-        System.out.println();
-
-        smpl.getText();
     }
 }
