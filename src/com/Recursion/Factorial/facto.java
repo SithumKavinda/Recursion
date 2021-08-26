@@ -19,4 +19,8 @@ public class facto {
             return (no * factorial(no - 1));
         }
     }
+
+    public void Message(){
+        System.out.println("This is Recursion...");
+    }
 }

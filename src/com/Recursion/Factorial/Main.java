@@ -13,5 +13,9 @@ public class Main {
         number = scn.nextInt();
 
         facto facto = new facto(number);
+
+        System.out.println();
+
+        facto.Message();
     }
 }
